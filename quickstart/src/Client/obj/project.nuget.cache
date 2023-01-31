@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BsIBWRevhY18Yba8mx0x+f8KPyKVmwKbVoyMB5xQ6zkACOsHIGgZYvVyOwiwJS8kIgzy/T8ccd7KN9cZ46/20w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\2023.01.28\\ISTest\\ISTest-IS\\quickstart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ashanp\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\Ashanp\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
